@@ -19,7 +19,6 @@ Features
     Utilizes OOP principles in PHP
 
 #Technologies Used
-
     PHP
     JavaScript
     CSS
@@ -27,10 +26,9 @@ Features
     MySql
 
 #Form Validation
-
 Form validation has been implemented on both the front-end and back-end for the user registration feature. Front-end validation ensures that required fields are not empty before submission, while back-end validation verifies the submitted data for accuracy and completeness.
-Screenshots
 
+#Screenshots
 See the Project_ScreenShot folder.
 License
 
@@ -41,14 +39,14 @@ This project is licensed under the MIT License.
 
 -In this project you can become familier with my design performance
 -A website built from scratch using pure vanilla PHP, JavaScript, CSS, and HTML, following the SPA architecture.
- In terms of running it on GitHub, I#ve set aside PHP.
+ In terms of running it on GitHub, I've set aside PHP.
+ "PHPMailer was used to send emails to both the admin and users in this project."
 
 #Features:
     Single Page Appilication
     Fast & easy loading
     Specil Design
  
-
 #Technologies Used
 
     PHP
