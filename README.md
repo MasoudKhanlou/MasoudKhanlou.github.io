@@ -43,6 +43,7 @@ This project is licensed under the MIT License.
  "PHPMailer was used to send emails to both the admin and users in this project."
 
 #Features:
+
     Single Page Appilication
     Fast & easy loading
     Specil Design
