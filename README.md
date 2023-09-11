@@ -38,13 +38,12 @@ This project is licensed under the MIT License.
 #SPA_Responsive: Entwicklung SPA
 
 -In this project you can become familier with my design performance
--A website built from scratch using pure vanilla PHP, JavaScript, CSS, and HTML, following the SPA architecture.
+-A website built from scratch using pure vanilla PHP, JavaScript, CSS, and HTML.
  In terms of running it on GitHub, I've set aside PHP.
  "PHPMailer was used to send emails to both the admin and users in this project."
 
 #Features:
 
-    Single Page Appilication
     Fast & easy loading
     Specil Design
  
